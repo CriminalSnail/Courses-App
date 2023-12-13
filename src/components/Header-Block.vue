@@ -30,7 +30,7 @@
           <div class="text-3xl leading-10 font-medium flex justify-center items-center xl:text-4xl xl:leading-9">
             <p>with Online Design and Development Courses.</p>
           </div>
-          <div class="flex justify-center h-10 leading-6 items-center xl:text-lg xl:leading-7">
+          <div class="flex justify-center h-10 leading-6 font-normal items-center xl:text-lg xl:leading-7">
             <p>Learn from Industry Experts and Enhance Your Skills.</p>
           </div>
         </div>
